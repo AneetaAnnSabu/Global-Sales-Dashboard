@@ -5,7 +5,7 @@
 #### Sales by segment: a donut chart that shows the total sales by different segments.
 #### Top Selling Products: a stacked bar chart that shows top 5 selling products.
 #### Sales by month and year: Stacked area chart that shows sales by month and year.
-#### Sales by Market: a clustered bar chart showing sales by eahc market.
+#### Sales by Market: a clustered bar chart showing sales by each market.
 #### Sales by Ship mode: a clustered bar chart that shows total sales by ship mode.
 #### Sales by Category: a clustered bar chart that shows total sales by category.
 #### Sales by country: a map that shows total sale by country.
